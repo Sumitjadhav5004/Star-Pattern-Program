@@ -23,7 +23,7 @@ Day 1 ✅ Right Angled Triangle
 
 Day 2 ✅ Inverted_Right_Angled_Triangle
 
-Day 3 ⏳ Coming Soon
+Day 3 ✅ Half Diamond
 
 ...
 
